@@ -1,4 +1,13 @@
 .jumbotron {
-  padding-top: 2rem;
-  background-color: azure;
+  padding-top: 6rem;
+  background-color:#e2edff;
+}
+
+.jumbotron-project{
+  background-color: #e2edff;
+  padding-top: 0.5px;
+}
+
+.nav-link{
+  color: white;
 }
